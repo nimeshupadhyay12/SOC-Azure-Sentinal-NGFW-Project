@@ -118,8 +118,4 @@ The goal is to automate a SOC setup with Azure as the cloud platform, Fortinet f
 - Log Analytics Workspace
 - Ubuntu VMs
 
-## Notes
-- Replace placeholders (e.g., IPs, workspace names) with your environment specifics.
-- Brute-force testing was performed ethically in a controlled, isolated setup.
-
 ---
